@@ -29,10 +29,10 @@ I have worked on various open-source and industry projects, including AI systems
 
 ## 🔬 Research Areas
 
-- Artificial Intelligence  
 - Software Engineering  
+- Artificial Intelligence  
 - Inclusive Education  
 
 ---
 
-⭐️ For more details about my research, publications, and projects, visit my website.
+⭐️ For more details about my research, publications, and projects, visit my <a href="https://danieldrbarros.github.io/">Personal Website</a>.
