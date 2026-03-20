@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
 My name is Daniel D'Angelo Resende Barros. I am a Computer Scientist currently working as a Doctoral Researcher in Computer Science at UFABC.
 
