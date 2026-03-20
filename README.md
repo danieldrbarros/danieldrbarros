@@ -23,7 +23,7 @@ My name is Daniel D'Angelo Resende Barros. I am a Computer Scientist currently w
 
 My research focuses on how Artificial Intelligence and Software Engineering can enhance accessibility and improve learning experiences in inclusive educational environments.
 
-I have worked on various open-source and industry projects, including AI systems and cyber-physical systems with robots like [Pepper](https://www.aldebaran.com/en/pepper), a social humanoid robot 🤖.
+I have worked on various open-source and industry projects, including AI systems and cyber-physical systems with robots like [Pepper](https://us.softbankrobotics.com/pepper), a social humanoid robot 🤖.
 
 ---
 
