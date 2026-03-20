@@ -5,13 +5,17 @@
 </h1>
 
 <p align="center">
-  Computer Scientist • Doctoral Researcher in Computer Science @ Federal University of ABC (UFABC) <br>
+  Computer Scientist<br>
+  Doctoral Researcher in Computer Science @ Federal University of ABC (UFABC)
+</p>
+
+<p align="center">
   Software Engineering • Artificial Intelligence • Inclusive Education
 </p>
 
 <p align="center">
-  🌐 <a href="https://danieldrbarros.github.io/">Personal Website</a> |
-  💼 <a href="https://www.linkedin.com/in/danieldrbarros/">LinkedIn</a> |
+  🌐 <a href="https://danieldrbarros.github.io/">Personal Website</a> •
+  💼 <a href="https://www.linkedin.com/in/danieldrbarros/">LinkedIn</a> •
   📚 <a href="https://scholar.google.com/citations?user=hywBbNoAAAAJ">Google Scholar</a>
 </p>
 
