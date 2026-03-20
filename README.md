@@ -15,14 +15,6 @@
   📚 <a href="https://scholar.google.com/citations?user=hywBbNoAAAAJ">Google Scholar</a>
 </div>
 
-<script>
-  // Force all links in this README section to open in a new tab
-  document.querySelectorAll('a').forEach(link => {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
-  });
-</script>
-
 ---
 
 ## 👋 About Me
