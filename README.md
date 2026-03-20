@@ -10,8 +10,8 @@
   <br><br>
   Software Engineering • Artificial Intelligence • Inclusive Education
   <br><br>
-  🌐 <a href="https://danieldrbarros.github.io/">Personal Website</a> •
-  💼 <a href="https://www.linkedin.com/in/danieldrbarros/">LinkedIn</a> •
+  🌐 <a href="https://danieldrbarros.github.io/">Personal Website</a> &nbsp;
+  💼 <a href="https://www.linkedin.com/in/danieldrbarros/">LinkedIn</a> &nbsp;
   📚 <a href="https://scholar.google.com/citations?user=hywBbNoAAAAJ">Google Scholar</a>
 </div>
 
