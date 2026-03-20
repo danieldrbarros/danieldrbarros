@@ -16,14 +16,14 @@ You can click the Preview link to take a look at your changes.
   </a>
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ddangelorb/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/dbarros1979)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/danieldrbarros/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/danieldrbarros)
 
 My name is Daniel D'Angelo Resende Barros. I am a dedicated Computer Scientist, enthusiastic software developer, and technology lover with extensive experience. In addition to my passion for coding, I have a keen interest in reading during my leisure. Welcome to my GitHub profile, where you can explore a compilation of projects that showcase my professional expertise.
 
 ## About Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ddangelorb/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danieldrbarros/)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=hywBbNoAAAAJ)
 <!--
 - 📝 [Resume/CV](https://your-resume-link.com)
