@@ -5,10 +5,10 @@
 </h1>
 
 <div align="center">
-  <strong>Computer Scientist</strong><br>
-  Doctoral Researcher in Computer Science @ Federal University of ABC (UFABC)
+  <span style="font-size: 1.5em;"><strong>Computer Scientist</strong></span><br>
+  Doctoral Researcher in Computer Science @ <a href="https://poscomp.ufabc.edu.br/">Federal University of ABC (UFABC)</a>
   <br><br>
-  Software Engineering • Artificial Intelligence • Inclusive Education
+   • Software Engineering • Artificial Intelligence • Inclusive Education
   <br><br>
   🌐 <a href="https://danieldrbarros.github.io/">Personal Website</a> &nbsp; &nbsp; &nbsp;
   💼 <a href="https://www.linkedin.com/in/danieldrbarros/">LinkedIn</a> &nbsp; &nbsp; &nbsp;
