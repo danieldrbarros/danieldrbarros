@@ -6,14 +6,22 @@
 
 <div align="center">
   <span style="font-size: 1.5em;"><strong>Computer Scientist</strong></span><br>
-  Doctoral Researcher in Computer Science @ <a href="https://poscomp.ufabc.edu.br/" target="_blank" rel="noopener noreferrer">Federal University of ABC (UFABC)</a>
+  Doctoral Researcher in Computer Science @ <a href="https://poscomp.ufabc.edu.br/">Federal University of ABC (UFABC)</a>
   <br><br>
    • Software Engineering • Artificial Intelligence • Inclusive Education
   <br><br>
-  🌐 <a href="https://danieldrbarros.github.io/" target="_blank" rel="noopener noreferrer">Personal Website</a> &nbsp; &nbsp; &nbsp;
-  💼 <a href="https://www.linkedin.com/in/danieldrbarros/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp; &nbsp; &nbsp;
-  📚 <a href="https://scholar.google.com/citations?user=hywBbNoAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  🌐 <a href="https://danieldrbarros.github.io/">Personal Website</a> &nbsp; &nbsp; &nbsp;
+  💼 <a href="https://www.linkedin.com/in/danieldrbarros/">LinkedIn</a> &nbsp; &nbsp; &nbsp;
+  📚 <a href="https://scholar.google.com/citations?user=hywBbNoAAAAJ">Google Scholar</a>
 </div>
+
+<script>
+  // Force all links in this README section to open in a new tab
+  document.querySelectorAll('a').forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+</script>
 
 ---
 
