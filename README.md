@@ -116,6 +116,6 @@ Feel free to explore these projects, and if you have any questions or would like
 - 📧 Email: your@email.com
 - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 -->
-- 💬 LinkedIn: [Connect](https://www.linkedin.com/in/ddangelorb/)
+- 💬 LinkedIn: [Connect](https://www.linkedin.com/in/danieldrbarros/)
 
 Thank you for visiting my GitHub profile! If you like what you see, consider following me and exploring my projects. Cheers!
